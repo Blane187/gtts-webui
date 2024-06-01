@@ -11,9 +11,9 @@ gtts-webui is a web-based interface for Google Text-to-Speech (gTTS). This tool 
 ## Features
 
 - Simple web interface for text-to-speech conversion.
-- Supports multiple languages and accents.
+   - Supports multiple languages and accents.
 - Ability to download the generated audio.
-- Adjustable speech rate.
+      - Adjustable speech rate.
 - Supports SSML (Speech Synthesis Markup Language) for advanced speech customization.
 
 ## Installation
